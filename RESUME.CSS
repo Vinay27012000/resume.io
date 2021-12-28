@@ -1,0 +1,29 @@
+h2{
+	text-align:center;
+	 text-decoration: underline overline;
+}
+.container{
+  margin-left:170px;
+  margin-top: 50px;
+  width: 900px;
+  height:700px;
+  border:1px solid;
+}
+table{
+border:1px;
+}
+
+.contact{
+	margin-left:12px;
+	
+}
+p1{
+	font-size:17px;
+}
+p2{
+	font-size:12px;
+}
+div{
+	margin-left:12px;
+	margin-right:12px;
+}
